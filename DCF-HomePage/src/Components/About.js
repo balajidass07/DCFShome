@@ -7,6 +7,7 @@ import p4 from "./nidhu.jpg"
 import p5 from "./suda.jpg"
 import p6 from "./pic6.jpeg"
 import p7 from "./pic8.jpg"
+import altpic from "./pic5.jpg"
 class About extends Component {
   render() {
 
@@ -44,6 +45,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={p1}
+                alt={altpic}
               />
             </div>
 
@@ -79,6 +81,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={p2}
+                alt={altpic}
               />
             </div>
 
@@ -115,6 +118,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={p3}
+                alt={altpic}
               />
             </div>
 
@@ -151,6 +155,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={p4}
+                alt={altpic}
               /> 
             </div>
 
@@ -187,6 +192,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={p5}
+                alt={altpic}
               />
             </div>
 
@@ -223,6 +229,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={p6}
+                alt={altpic}
               />
             </div>
 
@@ -260,6 +267,7 @@ class About extends Component {
               <img
                 className="profile-pic"
                 src={p7}
+                alt={altpic}
               />
             </div>
           </div>
