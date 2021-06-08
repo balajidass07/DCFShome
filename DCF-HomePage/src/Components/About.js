@@ -6,7 +6,7 @@ import p3 from "./gana.jpg"
 import p4 from "./nidhu.jpg"
 import p5 from "./suda.jpg"
 import p6 from "./pic6.jpeg"
-import p7 from "./pic5.jpg"
+import p7 from "./pic8.jpg"
 class About extends Component {
   render() {
 
